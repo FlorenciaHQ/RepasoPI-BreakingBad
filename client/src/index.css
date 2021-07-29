@@ -1,5 +1,8 @@
 body {
-  margin: 0;
+  display: flex;
+  justify-content: center;
+  background-image: url('https://i.pinimg.com/originals/f1/5d/59/f15d59f5ba275e041b77cb65d6cdae95.png');
+  margin: 10px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
