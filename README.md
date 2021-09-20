@@ -8,7 +8,7 @@
   <img height="200" src="./bb.png" />
 </p>
 
-La idea general es crear una aplicación en la cual se puedan ver distintos personajes de Breaking Bad junto con información relevante de los mismos utilizando la api externa [The Breaking Bad API](https://breakingbadapi.com/) y a partir de ella poder, entre otras cosas:
+Es una aplicación en la cual se puedan ver distintos personajes de Breaking Bad junto con información relevante de los mismos utilizando la api externa [The Breaking Bad API](https://breakingbadapi.com/) y a partir de ella poder, entre otras cosas:
 
   - Buscar personajes
   - Filtrarlos / Ordenarlos
